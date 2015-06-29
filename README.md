@@ -11,3 +11,6 @@ Export the following variables before running the script on Mac OS X to avoid en
     export LANG=en_US.UTF-8
     export LANGUAGE=en_US.UTF-8
     export LC_ALL=en_US.UTF-8
+
+## Usage
+    $ ruby fetch_public_keys_for_contacts.rb VCARD_INPUT_FILE.vcf OUTPUT_DIR
